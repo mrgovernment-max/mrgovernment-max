@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Emmanuel
 
-<!--
-**mrgovernment-max/mrgovernment-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full-Stack Developer  
+🚀 Passionate about building modern web applications  
+📍 Based in the UK  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+- 🌱 Currently learning: **JavaScript, React, Node.js, SQL, PHP**
+- 🛠️ Working on: **Web apps, e-commerce projects &  full stack websites**
+- ☁️ Exploring: **Cloud technologies (Azure & AWS)**
+- 🎯 Goal: Become a **professional full-stack developer**
+
+---
+
+## ⚙️ Tech Stack
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React
+
+**Backend**
+- Node.js
+- PHP
+
+**Database**
+- MySQL
+- SQL Server
+
+**Tools**
+- Git & GitHub
+- Azure
+- VS Code
+- Render
+
+---
+
+## 🚀 Projects
+
+🔹 ** Nexuss E-commerce Website**  
+Built a clothing brand website with authentication and cart system  
+
+🔹 **Prospect FC Web App**  
+Football team site with dynamic content and backend integration  
+
+🔹 **Portfolio Website**  
+Personal website to showcase my work and skills  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: efenteng1@gmail.com 
+
+---
+
+## ⚡ Fun Fact
+I build projects in my free time to sharpen my skills and turn ideas into reality.
