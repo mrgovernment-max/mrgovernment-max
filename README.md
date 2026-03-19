@@ -41,7 +41,7 @@
 
 ## 🚀 Projects
 
-🔹 ** Nexuss E-commerce Website**  
+🔹 **Nexuss E-commerce Website**  
 Built a clothing brand website with authentication and cart system  
 
 🔹 **Prospect FC Web App**  
