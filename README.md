@@ -8,10 +8,10 @@
 
 ##  About Me
 
-- 🌱 Currently learning: **JavaScript, React, Node.js, SQL, PHP**
-- 🛠️ Working on: **Web apps, e-commerce projects &  full stack websites**
-- ☁️ Exploring: **Cloud technologies (Azure & AWS)**
-- 🎯 Goal: Become a **professional full-stack developer**
+-  Currently learning: **JavaScript, React, Node.js, SQL, PHP**
+-  Working on: **Web apps, e-commerce projects &  full stack websites**
+-  Exploring: **Cloud technologies (Azure & AWS)**
+-  Goal: Become a **professional full-stack developer**
 
 ---
 
