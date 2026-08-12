@@ -17,8 +17,7 @@
 
 ## ⚙️ Tech Stack
 
-**Tech**
-Claude code
+
 
 **Frontend**
 - React
@@ -35,6 +34,7 @@ Claude code
 - SQL Server
 
 **Tools**
+- Claude Code
 - Git & GitHub
 - Azure
 - VS Code
