@@ -18,7 +18,7 @@
 ## ⚙️ Tech Stack
 
 **Frontend**
-- HTML
+- React
 - CSS
 - JavaScript
 - React
@@ -37,6 +37,8 @@
 - VS Code
 - Render
 
+**Techs**
+Claude code
 ---
 
 ## 🚀 Projects
