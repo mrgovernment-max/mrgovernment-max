@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Emmanuel
 
 💻 Aspiring Full-Stack Developer  
-🚀 Passionate about building modern web applications  
+🚀 Passionate about building modern web applications  and apps
 📍 Based in the UK  
 
 ---
